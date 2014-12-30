@@ -1,7 +1,7 @@
 require 'pp'
 
 puts "Solving Project 4 from Project Euler";
-digits = 2
+digits = 3
 
 def generate_number (digits)
 	number = ""
